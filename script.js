@@ -8,3 +8,4 @@ function showMessage(message) {
 
 // Экспорт функций для использования в других модулях
 export { showMessage };
+Новый функционал в разработке...
